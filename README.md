@@ -1,0 +1,14 @@
+# full_bd7-user 6.0 MRA58K 3.0.10 release-keys
+- manufacturer: mattel
+- platform: mt8127
+- codename: NBTY07SMKG
+- flavor: full_bd7-user
+- release: 6.0
+- id: MRA58K
+- incremental: 3.0.10
+- tags: release-keys
+- fingerprint: nabi/TOY7/NBTY07SMKG:6.0/MRA58K/3.0.10:user/release-keys
+- is_ab: false
+- brand: nabi
+- branch: full_bd7-user-6.0-MRA58K-3.0.10-release-keys
+- repo: nabi_nbty07smkg_dump
